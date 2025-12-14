@@ -1,10 +1,10 @@
-1️⃣ Bank Withdrawl Balance Checker
+## 1️⃣ Bank Withdrawl Balance Checker:
 This program allows the user to enter their account balance and a withdrawal amount. 
 It uses an `if-else` statement to check whether the withdrawal amount is less than or equal to the available balance.
 If sufficient funds are available, the program calculates and displays the remaining balance; otherwise, it shows an insufficient balance message. 
 This example helps beginners understand conditional statements and basic banking calculations in C++. 💰🏦
 
-2️⃣ Payroll Calculation Program
+2️⃣ Payroll Calculation Program:
 This program calculates an employee's net salary based on their grade and years of experience.
 It includes basic salary, bonus, and tax deductions to provide a complete payroll summary. 💵📊
 
