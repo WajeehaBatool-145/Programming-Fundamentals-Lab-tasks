@@ -32,7 +32,7 @@ Calculates the sum of the first five natural numbers using a `while` loop. Helps
 Ensures the user enters a positive number, repeatedly asking for input until valid. Demonstrates **input validation using loops**. ✅🔢
 
 ###  Age Category Classifier
-Classifies the user’s age as **child, teenager, or adult** using a ternary operator. Helps practice **conditional logic and nested ternary usage**. 🎯👶🧑
+Classifies the user’s age as **child, teenager, or adult** using a ternary operator. Helps practice **conditional logic and nested ternary usage**. 🎯
 
 ###  Even or Odd Number Checker
 Checks if a user-entered integer is **even or odd** using the modulus operator. Introduces **basic arithmetic and conditional statements**. 🔢⚖️
